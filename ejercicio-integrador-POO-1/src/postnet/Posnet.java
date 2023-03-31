@@ -16,7 +16,7 @@ public class Posnet {
   * Este metodo se utiliza para que la cuenta introdudicida sea correcta
   * y que ademas tenga saldo suficiente para efectuar el pago,
   * entonces genera un ticket con el nombre y el apellido del titular de la tarjeta
-  * como monto final. 
+
   * @param tarjeta
   * @param montoAbonar
   * @param cantCuotas

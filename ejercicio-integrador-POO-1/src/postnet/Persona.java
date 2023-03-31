@@ -2,7 +2,11 @@ package postnet;
 
 /**
  * Esta es la clase Persona
- * Define atributos dni, nombre, apellido, telefono y mail
+ * Define atributos 
+ * dni nombre
+ * apellido
+ * telefono 
+ * mail
  * @author 1dam 
  */
 
@@ -14,7 +18,8 @@ class Persona {
     private String mail;
     
  /**
-  * constructor persona...
+  * constructor persona
+  * 
   * @param dni
   * @param nombre
   * @param apellido
